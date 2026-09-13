@@ -90,6 +90,7 @@
      vscode
      htop
      claude-code
+     gemini-cli
    ];
 
   # Some programs need SUID wrappers, can be configured further or are
