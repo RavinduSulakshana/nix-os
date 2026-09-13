@@ -91,6 +91,7 @@
      htop
      claude-code
      gemini-cli
+     ranger
    ];
 
   environment.shellAliases = {
