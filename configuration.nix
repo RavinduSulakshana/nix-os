@@ -104,6 +104,7 @@ nixpkgs.config.permittedInsecurePackages = [
      nodejs
      ripgrep
      fzf
+     ghostty
    ];
 
   environment.shellAliases = {
