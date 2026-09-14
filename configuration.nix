@@ -92,6 +92,7 @@
      claude-code
      gemini-cli
      ranger
+     slack
    ];
 
   environment.shellAliases = {
